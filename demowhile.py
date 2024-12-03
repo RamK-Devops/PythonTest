@@ -15,5 +15,4 @@ while i < 10:
 
 print("Total")
 print(total)
-
-print ("this is changes in dev2")
+print("this for Dev1 changes stash & Dev2")
