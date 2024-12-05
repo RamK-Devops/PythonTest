@@ -1,0 +1,6 @@
+ram test1
+k test2
+abc
+def
+ghi
+jkl
